@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter_tube/models/video.dart';
 
-const API_KEY = 'AIzaSyA_xazywfQaSyJE7jphyn2z1BxfI5ji-fU';
+const API_KEY = 'CHAVE_GERADA_NO_YOUTUBE';
 
 class Api {
   String _search;
